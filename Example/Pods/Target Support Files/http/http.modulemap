@@ -1,0 +1,6 @@
+framework module http {
+  umbrella header "http-umbrella.h"
+
+  export *
+  module * { export * }
+}
