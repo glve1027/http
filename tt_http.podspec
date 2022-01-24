@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'http'
-  s.version          = '0.1.0'
+  s.name             = 'tt_http'
+  s.version          = '0.1.2'
   s.summary          = 'Test Http Client Layer'
 
 # This description is used to generate tags and improve search results.

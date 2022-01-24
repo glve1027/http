@@ -7,10 +7,10 @@
 
 import Foundation
 
-class HttpClient {
+public class HttpClient {
     let url: String
-    init(url: String) {
+    public init(url: String) {
         self.url = url
     }
-    func sendRequest() {}
+    public func sendRequest() {}
 }
